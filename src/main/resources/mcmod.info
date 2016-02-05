@@ -1,0 +1,16 @@
+[
+{
+  "modid": "phonemod",
+  "name": "Phone Mod",
+  "description": "iphone 6s vs nokia 3310",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["robin4002"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
